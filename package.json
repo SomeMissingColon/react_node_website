@@ -1,0 +1,11 @@
+{
+  "name": "Testwebsitereactnode",
+  "version": "1.0.0",
+  "description": "first website using react",
+  "main": "index.js",
+  "author": "Thomas Dion",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
